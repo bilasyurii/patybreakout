@@ -1,0 +1,23 @@
+s 9 0 2 7 8 9 10 11 12 13
+e 2 2 0 50 50 500 500 p p u u
+e 3 3 2 default 100 s 2 1 255 255 255 255 50 40 c p u
+e 3 4 2 default 50 s 7 1 255 255 255 255 50 100 r p u
+e 3 5 2 default 50 s 8 1 255 255 255 255 50 140 r p u
+e 3 6 2 default 50 s 9 1 255 255 255 255 50 180 r p u
+e 3 7 2 default 50 s 10 1 255 255 255 255 50 220 r p u
+e 1 8 2 spinLeft 270 100 8 5 -1 u u
+e 1 9 2 spinRight 430 100 8 5 1 u u
+e 1 10 2 spinLeft 270 140 8 6 -1 u u
+e 1 11 2 spinRight 430 140 8 6 1 u u
+e 1 12 2 spinLeft 270 180 8 7 -1 u u
+e 1 13 2 spinRight 430 180 8 7 1 u u
+e 1 14 2 spinLeft 270 220 8 2 -1 u u
+e 1 15 2 spinRight 430 220 8 2 1 u u
+e 3 16 2 default 50 v 5 1 255 255 255 255 350 100 c u u
+e 3 17 2 default 50 v 6 1 255 255 255 255 350 140 c u u
+e 3 18 2 default 50 v 7 1 255 255 255 255 350 180 c u u
+e 3 19 2 default 50 s 13 1 255 255 255 255 350 220 c u u
+e 3 20 2 default 50 v 3 1 255 255 255 255 335 220 r u u
+e 3 21 2 default 50 v 4 1 255 255 255 255 365 220 l u u
+e 1 22 2 buttonMedium 50 300 7 0 0 p u
+e 3 23 22 default 50 s 11 0 50 50 c p p

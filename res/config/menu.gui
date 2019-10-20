@@ -1,0 +1,9 @@
+s 3 1 2 3
+e 2 2 0 50 50 300 430 p p u u
+e 0 3 2 logoMedium 50 100 p u
+e 1 4 2 butttonBig 50 250 0 0 0 p u
+e 1 5 2 butttonBig 50 325 1 0 0 p u
+e 1 6 2 butttonBig 50 400 5 0 0 p u
+e 3 7 4 default 50 s 1 0 50 50 c p p
+e 3 8 5 default 50 s 2 0 50 50 c p p
+e 3 9 6 default 50 s 3 0 50 50 c p p

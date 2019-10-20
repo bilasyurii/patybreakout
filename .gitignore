@@ -1,0 +1,6 @@
+*.save-failed
+*.cscope_file_list
+*.layout
+*.depend
+Debug
+Release
